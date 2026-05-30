@@ -1,0 +1,53 @@
+{
+  "schedule": {
+    "Domingo": [
+      { "time": "06:00", "title": "Sunday Morning", "dj": "DJ Neitas" },
+      { "time": "10:00", "title": "Gospel Vibes", "dj": "DJ liwan" },
+      { "time": "14:00", "title": "Chill Sunday", "dj": "DJ Hakuro" },
+      { "time": "18:00", "title": "Sunday Session", "dj": "DJ Neitas" },
+      { "time": "22:00", "title": "Late Night Underground", "dj": "DJ Hakuro" }
+    ],
+    "Segunda": [
+      { "time": "06:00", "title": "Morning Vibes", "dj": "DJ Neitas" },
+      { "time": "10:00", "title": "Trap Sessions", "dj": "DJ Hakuro" },
+      { "time": "14:00", "title": "Lo-fi Afternoon", "dj": "DJ liwan" },
+      { "time": "18:00", "title": "Rush Hour", "dj": "DJ Neitas" },
+      { "time": "22:00", "title": "Late Night Underground", "dj": "DJ Hakuro" }
+    ],
+    "Terça": [
+      { "time": "06:00", "title": "Morning Vibes", "dj": "DJ liwan" },
+      { "time": "10:00", "title": "Boom Bap Radio", "dj": "DJ Neitas" },
+      { "time": "14:00", "title": "Chill Mode", "dj": "DJ Hakuro" },
+      { "time": "18:00", "title": "Rush Hour", "dj": "DJ liwan" },
+      { "time": "22:00", "title": "Late Night Underground", "dj": "DJ Neitas" }
+    ],
+    "Quarta": [
+      { "time": "06:00", "title": "Midweek Warm Up", "dj": "DJ Hakuro" },
+      { "time": "10:00", "title": "Trap Sessions", "dj": "DJ Neitas" },
+      { "time": "14:00", "title": "Lo-fi Afternoon", "dj": "DJ liwan" },
+      { "time": "18:00", "title": "Rush Hour", "dj": "DJ Hakuro" },
+      { "time": "22:00", "title": "Late Night Underground", "dj": "DJ liwan" }
+    ],
+    "Quinta": [
+      { "time": "06:00", "title": "Morning Vibes", "dj": "DJ liwan" },
+      { "time": "10:00", "title": "Boom Bap Radio", "dj": "DJ Hakuro" },
+      { "time": "14:00", "title": "Chill Mode", "dj": "DJ Neitas" },
+      { "time": "18:00", "title": "Pre-Friday Rush", "dj": "DJ liwan" },
+      { "time": "22:00", "title": "Late Night Underground", "dj": "DJ Hakuro" }
+    ],
+    "Sexta": [
+      { "time": "06:00", "title": "Friday Morning", "dj": "DJ Neitas" },
+      { "time": "10:00", "title": "Trap Sessions", "dj": "DJ liwan" },
+      { "time": "14:00", "title": "TGIF Vibes", "dj": "DJ Hakuro" },
+      { "time": "18:00", "title": "Friday Rush Hour", "dj": "DJ Neitas" },
+      { "time": "22:00", "title": "Friday Night Live", "dj": "DJ Hakuro" }
+    ],
+    "Sábado": [
+      { "time": "08:00", "title": "Saturday Warm Up", "dj": "DJ liwan" },
+      { "time": "12:00", "title": "Afternoon Bass", "dj": "DJ Neitas" },
+      { "time": "16:00", "title": "Golden Hour", "dj": "DJ Hakuro" },
+      { "time": "20:00", "title": "Saturday Night", "dj": "DJ liwan" },
+      { "time": "00:00", "title": "After Hours", "dj": "DJ Neitas" }
+    ]
+  }
+}
